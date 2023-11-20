@@ -1,0 +1,29 @@
+var indput = "";
+var point = 0;
+var bogstaver = "abcdefghijklmnopqrstuvwxyz";
+var random = new Random();
+var forsøg = 10;
+
+Console.WriteLine("Gæt det random bogstav. Du har 10 forsøg!");
+for (int i = 0; i < 10; i++)
+{
+    Console.Write("Indtast bogstav:");
+    char randomBogstav = bogstaver[random.Next(bogstaver.Length)];
+    indput = Console.ReadLine().ToLower();
+
+    if (indput.Length > 0 && indput[0] == randomBogstav)
+    {
+        point++;
+        Console.WriteLine("\nDet korrekte bogstav var {0}", randomBogstav);
+        Console.WriteLine("Du har modtaget 1 point fordi du gættede rigtigt, du har i øjeblikket: {0} Points", point);
+    }
+    else
+    {
+        Console.WriteLine("\nDet korrekte bogstav var {0}", randomBogstav);
+        Console.WriteLine("Kom igen, du har stadig {0} points", point);
+    }
+    forsøg--;
+    Console.WriteLine("Du har {0} forsøg tilbage!", forsøg);
+    
+}
+Console.WriteLine("\nDu har nu opbrugt dine forsøg!\nDit endelige resultat blev: {0} Points", point);
