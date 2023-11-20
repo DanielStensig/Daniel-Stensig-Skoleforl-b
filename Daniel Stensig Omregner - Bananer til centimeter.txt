@@ -1,0 +1,44 @@
+// Jeg er ikke helt sikker på at jeg har forstået opgaven, og jeg har nok gjort det forkert, men jeg har gjort mit bedste for at følge kravene til opgaven. 
+
+int antal = 0; 
+int output = 0;
+
+// Hvis vi går ud fra 1 banan er 22 centimeter lang (jeg har ingen ide om hvor lang den er.
+Main(output, antal);
+
+static void ModtagerIndput(out int andtal)
+{
+    bool indputCorrect = false;
+    string indput = ""; 
+
+    do
+    {
+        Console.Write("Skriv hvor mange bananer du har og vil omregne til centimeter (mindst 1, max 500): ");
+        indput = Console.ReadLine();
+
+        if (int.TryParse(indput, out andtal) && andtal >= 1 && andtal <= 500)
+        {
+            indputCorrect = true;
+        }
+        else
+        {
+            Console.WriteLine("Invalid indput! Indtast et nyt nummer (mindst 1, max 500)!");
+        }
+
+    } while (indputCorrect != true);
+}
+static void Omregner(int antal, out int output)
+{
+    output = antal * 22;
+}
+static void Resultat(int output)
+{
+    Console.WriteLine($"Længden på alle bananerne er: {output} CM");
+}
+static void Main(int output, int antal)
+{
+    ModtagerIndput(out antal);
+    Omregner(antal, out output);
+    Resultat(output);
+}
+
