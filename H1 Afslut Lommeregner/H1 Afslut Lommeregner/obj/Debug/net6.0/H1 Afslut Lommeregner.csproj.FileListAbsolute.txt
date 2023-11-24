@@ -1,0 +1,14 @@
+C:\Users\daniel\Desktop\Oplæring\H1 Afslut Lommeregner\H1 Afslut Lommeregner\bin\Debug\net6.0\H1 Afslut Lommeregner.exe
+C:\Users\daniel\Desktop\Oplæring\H1 Afslut Lommeregner\H1 Afslut Lommeregner\bin\Debug\net6.0\H1 Afslut Lommeregner.deps.json
+C:\Users\daniel\Desktop\Oplæring\H1 Afslut Lommeregner\H1 Afslut Lommeregner\bin\Debug\net6.0\H1 Afslut Lommeregner.runtimeconfig.json
+C:\Users\daniel\Desktop\Oplæring\H1 Afslut Lommeregner\H1 Afslut Lommeregner\bin\Debug\net6.0\H1 Afslut Lommeregner.dll
+C:\Users\daniel\Desktop\Oplæring\H1 Afslut Lommeregner\H1 Afslut Lommeregner\bin\Debug\net6.0\H1 Afslut Lommeregner.pdb
+C:\Users\daniel\Desktop\Oplæring\H1 Afslut Lommeregner\H1 Afslut Lommeregner\obj\Debug\net6.0\H1 Afslut Lommeregner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel\Desktop\Oplæring\H1 Afslut Lommeregner\H1 Afslut Lommeregner\obj\Debug\net6.0\H1 Afslut Lommeregner.AssemblyInfoInputs.cache
+C:\Users\daniel\Desktop\Oplæring\H1 Afslut Lommeregner\H1 Afslut Lommeregner\obj\Debug\net6.0\H1 Afslut Lommeregner.AssemblyInfo.cs
+C:\Users\daniel\Desktop\Oplæring\H1 Afslut Lommeregner\H1 Afslut Lommeregner\obj\Debug\net6.0\H1 Afslut Lommeregner.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\Oplæring\H1 Afslut Lommeregner\H1 Afslut Lommeregner\obj\Debug\net6.0\H1 Afslut Lommeregner.dll
+C:\Users\daniel\Desktop\Oplæring\H1 Afslut Lommeregner\H1 Afslut Lommeregner\obj\Debug\net6.0\refint\H1 Afslut Lommeregner.dll
+C:\Users\daniel\Desktop\Oplæring\H1 Afslut Lommeregner\H1 Afslut Lommeregner\obj\Debug\net6.0\H1 Afslut Lommeregner.pdb
+C:\Users\daniel\Desktop\Oplæring\H1 Afslut Lommeregner\H1 Afslut Lommeregner\obj\Debug\net6.0\H1 Afslut Lommeregner.genruntimeconfig.cache
+C:\Users\daniel\Desktop\Oplæring\H1 Afslut Lommeregner\H1 Afslut Lommeregner\obj\Debug\net6.0\ref\H1 Afslut Lommeregner.dll
