@@ -1,0 +1,14 @@
+C:\Users\daniel\Desktop\Oplæring\Exception Handeling H1\Exception Handeling H1\bin\Debug\net7.0\Exception Handeling H1.exe
+C:\Users\daniel\Desktop\Oplæring\Exception Handeling H1\Exception Handeling H1\bin\Debug\net7.0\Exception Handeling H1.deps.json
+C:\Users\daniel\Desktop\Oplæring\Exception Handeling H1\Exception Handeling H1\bin\Debug\net7.0\Exception Handeling H1.runtimeconfig.json
+C:\Users\daniel\Desktop\Oplæring\Exception Handeling H1\Exception Handeling H1\bin\Debug\net7.0\Exception Handeling H1.dll
+C:\Users\daniel\Desktop\Oplæring\Exception Handeling H1\Exception Handeling H1\bin\Debug\net7.0\Exception Handeling H1.pdb
+C:\Users\daniel\Desktop\Oplæring\Exception Handeling H1\Exception Handeling H1\obj\Debug\net7.0\Exception Handeling H1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\daniel\Desktop\Oplæring\Exception Handeling H1\Exception Handeling H1\obj\Debug\net7.0\Exception Handeling H1.AssemblyInfoInputs.cache
+C:\Users\daniel\Desktop\Oplæring\Exception Handeling H1\Exception Handeling H1\obj\Debug\net7.0\Exception Handeling H1.AssemblyInfo.cs
+C:\Users\daniel\Desktop\Oplæring\Exception Handeling H1\Exception Handeling H1\obj\Debug\net7.0\Exception Handeling H1.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\Oplæring\Exception Handeling H1\Exception Handeling H1\obj\Debug\net7.0\Exception Handeling H1.dll
+C:\Users\daniel\Desktop\Oplæring\Exception Handeling H1\Exception Handeling H1\obj\Debug\net7.0\refint\Exception Handeling H1.dll
+C:\Users\daniel\Desktop\Oplæring\Exception Handeling H1\Exception Handeling H1\obj\Debug\net7.0\Exception Handeling H1.pdb
+C:\Users\daniel\Desktop\Oplæring\Exception Handeling H1\Exception Handeling H1\obj\Debug\net7.0\Exception Handeling H1.genruntimeconfig.cache
+C:\Users\daniel\Desktop\Oplæring\Exception Handeling H1\Exception Handeling H1\obj\Debug\net7.0\ref\Exception Handeling H1.dll
