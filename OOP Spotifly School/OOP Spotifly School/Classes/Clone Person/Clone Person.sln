@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clone Person", "Clone Person\Clone Person.csproj", "{7B4DEAD3-BAF0-4CF5-BA13-15F38C22BDBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B4DEAD3-BAF0-4CF5-BA13-15F38C22BDBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B4DEAD3-BAF0-4CF5-BA13-15F38C22BDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B4DEAD3-BAF0-4CF5-BA13-15F38C22BDBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B4DEAD3-BAF0-4CF5-BA13-15F38C22BDBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AEA87351-06AE-40FF-8431-34F7EE872892}
+	EndGlobalSection
+EndGlobal
