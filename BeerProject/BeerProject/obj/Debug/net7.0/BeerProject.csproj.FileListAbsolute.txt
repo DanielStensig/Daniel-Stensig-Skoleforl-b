@@ -1,0 +1,14 @@
+D:\Visual Studio\repos\BeerProject\BeerProject\bin\Debug\net7.0\BeerProject.exe
+D:\Visual Studio\repos\BeerProject\BeerProject\bin\Debug\net7.0\BeerProject.deps.json
+D:\Visual Studio\repos\BeerProject\BeerProject\bin\Debug\net7.0\BeerProject.runtimeconfig.json
+D:\Visual Studio\repos\BeerProject\BeerProject\bin\Debug\net7.0\BeerProject.dll
+D:\Visual Studio\repos\BeerProject\BeerProject\bin\Debug\net7.0\BeerProject.pdb
+D:\Visual Studio\repos\BeerProject\BeerProject\obj\Debug\net7.0\BeerProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\repos\BeerProject\BeerProject\obj\Debug\net7.0\BeerProject.AssemblyInfoInputs.cache
+D:\Visual Studio\repos\BeerProject\BeerProject\obj\Debug\net7.0\BeerProject.AssemblyInfo.cs
+D:\Visual Studio\repos\BeerProject\BeerProject\obj\Debug\net7.0\BeerProject.csproj.CoreCompileInputs.cache
+D:\Visual Studio\repos\BeerProject\BeerProject\obj\Debug\net7.0\BeerProject.dll
+D:\Visual Studio\repos\BeerProject\BeerProject\obj\Debug\net7.0\refint\BeerProject.dll
+D:\Visual Studio\repos\BeerProject\BeerProject\obj\Debug\net7.0\BeerProject.pdb
+D:\Visual Studio\repos\BeerProject\BeerProject\obj\Debug\net7.0\BeerProject.genruntimeconfig.cache
+D:\Visual Studio\repos\BeerProject\BeerProject\obj\Debug\net7.0\ref\BeerProject.dll
